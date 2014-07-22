@@ -13,7 +13,7 @@ Epigenetics
 -----
 
 * ~[Predicting Cell Types and Genetic Variations Contributing to Disease by Combining GWAS and Epigenetic Data. Gerasimova et al.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0054359)
-* [Emerging patterns of epigenomic variation. Milosavljevic](http://www.cell.com/trends/genetics/abstract/S0168-9525\(11\)00042-4)
+* ~[Emerging patterns of epigenomic variation. Milosavljevic](http://www.cell.com/trends/genetics/abstract/S0168-9525\(11\)00042-4)
 * [High-throughput transcription profiling identifies putative epigenetic
 regulators of hematopoiesis. Prasad et al.](http://www.bloodjournal.org/content/123/17/e46.long)
 * [Discovery and characterization of chromatin states for systematic annotation of the human genome. Ernst & Kellis](http://www.nature.com/nbt/journal/v28/n8/abs/nbt.1662.html)
