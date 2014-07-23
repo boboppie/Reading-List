@@ -10,7 +10,9 @@
 * ~[An Introduction to MCMC for Machine Learning. Jordan et al.](http://cis.temple.edu/~latecki/Courses/RobotFall07/PapersFall07/andrieu03introduction.pdf)
 * ~[Markov Chain Monte Carlo and Gibbs Sampling. Walsh](http://web.mit.edu/~wingated/www/introductions/mcmc-gibbs-intro.pdf)
 
-##Epigenetics
+##Biology
+
+###Epigenetics
 
 * ~[Predicting Cell Types and Genetic Variations Contributing to Disease by Combining GWAS and Epigenetic Data. Gerasimova et al.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0054359)
 * ~[Emerging patterns of epigenomic variation. Milosavljevic](http://www.cell.com/trends/genetics/abstract/S0168-9525\(11\)00042-4)
