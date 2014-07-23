@@ -21,3 +21,6 @@
 * [Integrating and mining the chromatin landscape of cell-type specificity using self-organizing maps. Mortazavi et al.](http://genome.cshlp.org/content/23/12/2136.full)
 * [Enhancer Function: Mechanistic and Genome-Wide Insights Come Together. Plank & Dean](http://www.cell.com/molecular-cell/pdf/S1097-2765\(14\)00523-1.pdf)
 * ~[Epigenetics as a unifying principle in the aetiology of complex traits and diseases.  Petronis](http://www.nature.com/nature/journal/v465/n7299/full/nature09230.html)
+* [Mapping Allele-Specific DNA Methylation: A New Tool for Maximizing Information from GWAS. Tycko](http://www.sciencedirect.com/science/article/pii/S000292971000025X#)
+* [Linking disease associations with regulatory information in the human genome. Schaub et al.](http://genome.cshlp.org/content/22/9/1748.long)
+* [Detection of Regulatory SNPs in Human Genome Using ChIP-seq ENCODE Data. Bryzgalov et al.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0078833)
