@@ -25,3 +25,6 @@
 * [Linking disease associations with regulatory information in the human genome. Schaub et al.](http://genome.cshlp.org/content/22/9/1748.long)
 * [Detection of Regulatory SNPs in Human Genome Using ChIP-seq ENCODE Data. Bryzgalov et al.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0078833)
 * [Defining functional DNA elements in the human genome. Kellis et al.](http://www.pnas.org/content/111/17/6131)
+* [Transcriptional Regulatory Elements in the Human Genome. Maston et al.](http://www.annualreviews.org/doi/abs/10.1146/annurev.genom.7.080505.115623)
+* [Genomics of Long-Range Regulatory Elements. Noonan et al.](http://www.annualreviews.org/doi/abs/10.1146/annurev-genom-082509-141651)
+* [A high-resolution map of human evolutionary constraint using 29 mammals. Lindblad-Toh et al.](http://www.nature.com/nature/journal/v478/n7370/full/nature10530.html)
