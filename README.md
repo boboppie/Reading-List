@@ -8,14 +8,14 @@ Machine Learning
 * [Introduction to Monte Carlo methods. MacKay](http://www.inference.phy.cam.ac.uk/mackay/erice.pdf)
 * ~[Introducing Markov chain Monte. Carlo. Gilks et al.](http://blogs.utas.edu.au/my-imas/files/2013/09/MCMC1.pdf)
 * ~[An Introduction to MCMC for Machine Learning. Jordan et al.](http://cis.temple.edu/~latecki/Courses/RobotFall07/PapersFall07/andrieu03introduction.pdf)
+* ~[Markov Chain Monte Carlo and Gibbs Sampling. Walsh](http://web.mit.edu/~wingated/www/introductions/mcmc-gibbs-intro.pdf)
 
 Epigenetics
 -----
 
 * ~[Predicting Cell Types and Genetic Variations Contributing to Disease by Combining GWAS and Epigenetic Data. Gerasimova et al.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0054359)
 * ~[Emerging patterns of epigenomic variation. Milosavljevic](http://www.cell.com/trends/genetics/abstract/S0168-9525\(11\)00042-4)
-* [High-throughput transcription profiling identifies putative epigenetic
-regulators of hematopoiesis. Prasad et al.](http://www.bloodjournal.org/content/123/17/e46.long)
+* [High-throughput transcription profiling identifies putative epigenetic regulators of hematopoiesis. Prasad et al.](http://www.bloodjournal.org/content/123/17/e46.long)
 * [Discovery and characterization of chromatin states for systematic annotation of the human genome. Ernst & Kellis](http://www.nature.com/nbt/journal/v28/n8/abs/nbt.1662.html)
 * [Unsupervised pattern discovery in human chromatin structure through genomic segmentation. Hoffman et al.](http://www.nature.com/nmeth/journal/v9/n5/full/nmeth.1937.html)
 * [Integrative annotation of chromatin elements from ENCODE data. Hoffman et al.](http://nar.oxfordjournals.org/content/early/2012/12/05/nar.gks1284.full)
