@@ -20,3 +20,4 @@
 * [Integrative annotation of chromatin elements from ENCODE data. Hoffman et al.](http://nar.oxfordjournals.org/content/early/2012/12/05/nar.gks1284.full)
 * [Integrating and mining the chromatin landscape of cell-type specificity using self-organizing maps. Mortazavi et al.](http://genome.cshlp.org/content/23/12/2136.full)
 * [Enhancer Function: Mechanistic and Genome-Wide Insights Come Together. Plank & Dean](http://www.cell.com/molecular-cell/pdf/S1097-2765\(14\)00523-1.pdf)
+* ~[Epigenetics as a unifying principle in the aetiology of complex traits and diseases.  Petronis](http://www.nature.com/nature/journal/v465/n7299/full/nature09230.html)
