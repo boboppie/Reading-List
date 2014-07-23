@@ -20,4 +20,4 @@ Epigenetics
 * [Unsupervised pattern discovery in human chromatin structure through genomic segmentation. Hoffman et al.](http://www.nature.com/nmeth/journal/v9/n5/full/nmeth.1937.html)
 * [Integrative annotation of chromatin elements from ENCODE data. Hoffman et al.](http://nar.oxfordjournals.org/content/early/2012/12/05/nar.gks1284.full)
 * [Integrating and mining the chromatin landscape of cell-type specificity using self-organizing maps. Mortazavi et al.](http://genome.cshlp.org/content/23/12/2136.full)
-* [Enhancer Function: Mechanistic and Genome-Wide Insights Come Together. Plank & Dean](www.cell.com/molecular-cell/pdf/S1097-2765\(14\)00523-1.pdf)
+* [Enhancer Function: Mechanistic and Genome-Wide Insights Come Together. Plank & Dean](http://www.cell.com/molecular-cell/pdf/S1097-2765\(14\)00523-1.pdf)
