@@ -24,3 +24,4 @@
 * [Mapping Allele-Specific DNA Methylation: A New Tool for Maximizing Information from GWAS. Tycko](http://www.sciencedirect.com/science/article/pii/S000292971000025X#)
 * [Linking disease associations with regulatory information in the human genome. Schaub et al.](http://genome.cshlp.org/content/22/9/1748.long)
 * [Detection of Regulatory SNPs in Human Genome Using ChIP-seq ENCODE Data. Bryzgalov et al.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0078833)
+* [Defining functional DNA elements in the human genome. Kellis et al.](http://www.pnas.org/content/111/17/6131)
