@@ -21,6 +21,7 @@
 
 ###Epigenetics
 
+* [Intro](http://epigenie.com/epigenetics/)
 * ~[Predicting Cell Types and Genetic Variations Contributing to Disease by Combining GWAS and Epigenetic Data. Gerasimova et al.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0054359)
 * ~[Emerging patterns of epigenomic variation. Milosavljevic](http://www.cell.com/trends/genetics/abstract/S0168-9525\(11\)00042-4)
 * [Discovery and characterization of chromatin states for systematic annotation of the human genome. Ernst & Kellis](http://www.nature.com/nbt/journal/v28/n8/abs/nbt.1662.html)
@@ -37,7 +38,17 @@
 * [Genomics of Long-Range Regulatory Elements. Noonan et al.](http://www.annualreviews.org/doi/abs/10.1146/annurev-genom-082509-141651)
 * [A high-resolution map of human evolutionary constraint using 29 mammals. Lindblad-Toh et al.](http://www.nature.com/nature/journal/v478/n7370/full/nature10530.html)
 
+###Epigenome
+
+* [DNA methylation dynamics of the human preimplantation embryo. Smith et al.](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13581.html)
+* [Dynamic and static maintenance of epigenetic memory in pluripotent and somatic cells. Shipony et al.](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13458.html)
+* [The DNA methylation landscape of human early embryos. Guo et al.](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13544.html)
+* [Global Epigenomic Reconfiguration During Mammalian Brain Development. Lister et al.](http://www.sciencemag.org/content/341/6146/1237905)
+* [Epigenomic Analysis of Multilineage Differentiation of Human Embryonic Stem Cells. Xie et al.](http://www.cell.com/abstract/S0092-8674\(13\)00464-9)
+* [Transcriptional and Epigenetic Dynamics during Specification of Human Embryonic Stem Cells. Gifford et al.](http://www.cell.com/abstract/S0092-8674\(13\)00513-8)
+* [DNA methylation: roles in mammalian development. Smith & Meissner](http://www.nature.com/nrg/journal/v14/n3/full/nrg3354.html)
 
 ###Haematology
+
 * [High-throughput transcription profiling identifies putative epigenetic regulators of hematopoiesis. Prasad et al.](http://www.bloodjournal.org/content/123/17/e46.long)
 
