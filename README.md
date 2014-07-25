@@ -12,7 +12,7 @@
 
 ###HMM
 * ~[Stanford AI class HMM note](https://www.dropbox.com/s/t1xpy392r8ex85s/stanford-ai-class_hmm.png)
-* [What is a hidden Markov model? Eddy](http://www.nature.com/nbt/journal/v22/n10/pdf/nbt1004-1315.pdf)
+* ~[What is a hidden Markov model? Eddy](http://www.nature.com/nbt/journal/v22/n10/pdf/nbt1004-1315.pdf)
 * [An Introduction to Hidden Markov Models. Rabiner & Juang](http://www.cs.umb.edu/~rvetro/vetroBioComp/HMM/Rabiner1986%20An%20Introduction%20to%20Hidden%20Markov%20Models.pdf)
 * [An Introduction to Hidden Markov Models for Biological Sequences. Krogh](http://people.binf.ku.dk/krogh/publications/ps/Krogh98a.pdf)
 * [An Introduction to Hidden Markov Models and Bayesian Networks. Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf)
