@@ -52,4 +52,5 @@
 ###Haematology
 
 * [High-throughput transcription profiling identifies putative epigenetic regulators of hematopoiesis. Prasad et al.](http://www.bloodjournal.org/content/123/17/e46.long)
+* [New gene functions in megakaryopoiesis and platelet formation. Gieger et al.](http://www.nature.com/nature/journal/v480/n7376/full/nature10659.html)
 
