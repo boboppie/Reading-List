@@ -17,6 +17,10 @@
 * ~[An Introduction to Hidden Markov Models for Biological Sequences. Krogh](http://people.binf.ku.dk/krogh/publications/ps/Krogh98a.pdf)
 * [An Introduction to Hidden Markov Models and Bayesian Networks. Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf)
 
+###ROC
+* ~[Receiver Operating Characteristic Curves: A Basic Understanding. Vining & Gladish](http://pubs.rsna.org/doi/pdf/10.1148/radiographics.12.6.1439017)
+
+
 ##Biology
 
 ###Epigenetics
