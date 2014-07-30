@@ -54,3 +54,9 @@
 * [High-throughput transcription profiling identifies putative epigenetic regulators of hematopoiesis. Prasad et al.](http://www.bloodjournal.org/content/123/17/e46.long)
 * [New gene functions in megakaryopoiesis and platelet formation. Gieger et al.](http://www.nature.com/nature/journal/v480/n7376/full/nature10659.html)
 
+###RNA-Seq
+
+* [Haplotype and isoform specific expression estimation using multi-mapping RNA-seq reads. Turro et al.](http://genomebiology.com/2011/12/2/R13)
+* [Flexible analysis of RNA-seq data using mixed effects models. Turro et al.](http://bioinformatics.oxfordjournals.org/content/30/2/180)
+
+
