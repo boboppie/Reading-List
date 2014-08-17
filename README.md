@@ -20,6 +20,9 @@
 ###ROC
 * ~[Receiver Operating Characteristic Curves: A Basic Understanding. Vining & Gladish](http://pubs.rsna.org/doi/pdf/10.1148/radiographics.12.6.1439017)
 
+###Bayesian statistics
+* [Bayesian Estimation Supersedes the t Test. Kruschke](http://www.indiana.edu/~kruschke/BEST/)
+
 
 ##Biology
 
