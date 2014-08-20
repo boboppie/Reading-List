@@ -22,6 +22,7 @@
 
 ###Bayesian statistics
 * [Bayesian Estimation Supersedes the t Test. Kruschke](http://www.indiana.edu/~kruschke/BEST/)
+* [How Does the Brain Do Plausible Reasoning? Jaynes](http://exordio.qfb.umich.mx/archivos%20pdf%20de%20trabajo%20umsnh/aphilosofia/bayesian%20importantes/brain.pdf)
 
 
 ##Biology
