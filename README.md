@@ -24,6 +24,10 @@
 * [Bayesian Estimation Supersedes the t Test. Kruschke](http://www.indiana.edu/~kruschke/BEST/)
 * [How Does the Brain Do Plausible Reasoning? Jaynes](http://exordio.qfb.umich.mx/archivos%20pdf%20de%20trabajo%20umsnh/aphilosofia/bayesian%20importantes/brain.pdf)
 
+###Bayes Net
+* [Fusion, Propagation, and Structuring in Belief Networks. Pearl](http://cecs.wright.edu/~swang/cs409/Pearl.pdf)
+* [Graphical Models for Probabilistic and Causal Reasoning. Pearl](http://ftp.cs.ucla.edu/pub/stat_ser/r236-2nd-edition-2011.pdf)
+* [A Probabilistic Calculus of Actions. Pearl](http://arxiv.org/pdf/1302.6835v1.pdf)
 
 ##Biology
 
