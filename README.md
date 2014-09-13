@@ -29,6 +29,9 @@
 * [Graphical Models for Probabilistic and Causal Reasoning. Pearl](http://ftp.cs.ucla.edu/pub/stat_ser/r236-2nd-edition-2011.pdf)
 * [A Probabilistic Calculus of Actions. Pearl](http://arxiv.org/pdf/1302.6835v1.pdf)
 
+###Bayesian nonparametric models
+*[A tutorial on Bayesian nonparametric models. Gershaman & Blei](http://www.cs.princeton.edu/~blei/papers/GershmanBlei2012.pdf)
+
 ##Biology
 
 ###Epigenetics
