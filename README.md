@@ -30,7 +30,7 @@
 * [A Probabilistic Calculus of Actions. Pearl](http://arxiv.org/pdf/1302.6835v1.pdf)
 
 ###Bayesian nonparametric models
-*[A tutorial on Bayesian nonparametric models. Gershaman & Blei](http://www.cs.princeton.edu/~blei/papers/GershmanBlei2012.pdf)
+* [A tutorial on Bayesian nonparametric models. Gershaman & Blei](http://www.cs.princeton.edu/~blei/papers/GershmanBlei2012.pdf)
 
 ##Biology
 
