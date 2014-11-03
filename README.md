@@ -9,6 +9,7 @@
 * ~[Introducing Markov chain Monte. Carlo. Gilks et al.](http://blogs.utas.edu.au/my-imas/files/2013/09/MCMC1.pdf)
 * ~[An Introduction to MCMC for Machine Learning. Jordan et al.](http://cis.temple.edu/~latecki/Courses/RobotFall07/PapersFall07/andrieu03introduction.pdf)
 * ~[Markov Chain Monte Carlo and Gibbs Sampling. Walsh](http://web.mit.edu/~wingated/www/introductions/mcmc-gibbs-intro.pdf)
+* [Probabilistic Inference Using Markov Chain Monte Carlo methods. Nael](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
 
 ###HMM
 * ~[Stanford AI class HMM note](https://www.dropbox.com/s/t1xpy392r8ex85s/stanford-ai-class_hmm.png)
