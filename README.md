@@ -76,7 +76,7 @@
 
 ##BLUEPRINT
 
-* [Metabolic shift may train immune cells. Pennisi.](http://www.sciencemag.org/content/345/6204/1550.full)
+* ~~[Metabolic shift may train immune cells. Pennisi.](http://www.sciencemag.org/content/345/6204/1550.full)~~
 * [Epigenetic programming of monocyte-to-macrophage differentiation and trained innate immunity. Saeed et al.](http://www.sciencemag.org/content/345/6204/1251086.full)
 * [mTOR- and HIF-1α–mediated aerobic glycolysis as metabolic basis for trained immunity. Cheng et al.](http://www.sciencemag.org/content/345/6204/1550.full)
 * [Transcriptional diversity during lineage commitment of human blood progenitors. Chen et al.](http://www.sciencemag.org/content/345/6204/1251033.full)
