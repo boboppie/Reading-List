@@ -73,6 +73,13 @@
 * [High-throughput transcription profiling identifies putative epigenetic regulators of hematopoiesis. Prasad et al.](http://www.bloodjournal.org/content/123/17/e46.long)
 * [New gene functions in megakaryopoiesis and platelet formation. Gieger et al.](http://www.nature.com/nature/journal/v480/n7376/full/nature10659.html)
 
+##BLUEPRINT
+
+* [Metabolic shift may train immune cells. Pennisi.](http://www.sciencemag.org/content/345/6204/1550.full)
+* [Epigenetic programming of monocyte-to-macrophage differentiation and trained innate immunity. Saeed et al.](http://www.sciencemag.org/content/345/6204/1251086.full)
+* [mTOR- and HIF-1α–mediated aerobic glycolysis as metabolic basis for trained immunity. Cheng et al.](http://www.sciencemag.org/content/345/6204/1550.full)
+* [Transcriptional diversity during lineage commitment of human blood progenitors. Chen et al.](http://www.sciencemag.org/content/345/6204/1251033.full)
+
 ###RNA-Seq
 
 * [Haplotype and isoform specific expression estimation using multi-mapping RNA-seq reads. Turro et al.](http://genomebiology.com/2011/12/2/R13)
