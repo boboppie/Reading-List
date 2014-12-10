@@ -57,6 +57,8 @@
 * [Genomics of Long-Range Regulatory Elements. Noonan et al.](http://www.annualreviews.org/doi/abs/10.1146/annurev-genom-082509-141651)
 * [A high-resolution map of human evolutionary constraint using 29 mammals. Lindblad-Toh et al.](http://www.nature.com/nature/journal/v478/n7370/full/nature10530.html)
 * [Chromatin marks identify critical cell types for fine mapping complex trait variants. Trynka et al.](http://www.nature.com/ng/journal/v45/n2/full/ng.2504.html)
+* [Diverse Epigenetic Mechanisms of Human Disease. Brookes & Shi](http://www.annualreviews.org/doi/pdf/10.1146/annurev-genet-120213-092518)
+* [Comparative analysis of metazoan chromatin organization. Ho et al.](http://www.nature.com/nature/journal/v512/n7515/pdf/nature13415.pdf)
 
 ###Epigenome
 
